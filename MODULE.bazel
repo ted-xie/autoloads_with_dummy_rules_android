@@ -1,0 +1,7 @@
+module(
+  name = "rules_android",
+  version = "0.6.0",
+)
+
+bazel_dep(name = "rules_java", version = "7.12.2")
+bazel_dep(name = "bazel_worker_java", version = "0.0.1")

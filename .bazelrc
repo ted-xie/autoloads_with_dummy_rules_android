@@ -1,0 +1,1 @@
+common --incompatible_autoload_externally=+@rules_java,+@rules_python,+@protobuf,+@rules_cc
